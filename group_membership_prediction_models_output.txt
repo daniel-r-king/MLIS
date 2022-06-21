@@ -1,0 +1,32 @@
+***GENDER MODEL***
+Cross validation scores:  [0.6754609  0.68044515 0.67535771 0.67440382 0.68203498]
+Training score:  0.6812285387256772
+Test score:  0.6828585961342828
+
+
+***RACE MODEL***
+Cross validation scores:  [0.55435474 0.54372019 0.5491256  0.55389507 0.55357711]
+Training score:  0.5545593285005723
+Test score:  0.5623092573753815
+
+
+***HANDEDNESS MODEL***
+Cross validation scores:  [0.88429752 0.8845787  0.8845787  0.8836248  0.88394277]
+Training score:  0.8842680910593921
+Test score:  0.8786876907426246
+
+
+***COUNTRY MODEL***
+C:\Anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+Cross validation scores:  [0.45167854 0.44794846 0.45337403 0.45149254 0.4531886 ]
+Training score:  0.466729973546768
+Test score:  0.4472024415055951
+
+
+***AGE MODEL***
+C:\Anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+Cross validation scores:  [0.0844354  0.07731434 0.07256697 0.07971506 0.08208955]
+Training score:  0.10866173777385878
+Test score:  0.07466937945066124
